@@ -1,0 +1,9 @@
+# glitch-watts — cliamp theme. Hot pink on moss, phosphor for the progress bar.
+# Copy to ~/.config/cliamp/themes/glitch-watts.toml, then: cliamp theme glitch-watts
+bg = "#07120a"
+accent = "#fd1d72"
+bright_fg = "#e8e4cc"
+fg = "#a5a48e"
+green = "#1cefb6"
+yellow = "#fdd321"
+red = "#f2343a"

@@ -1,0 +1,43 @@
+# glitch-watts — a palette lifted from eleven glitched portraits of Alan Watts
+# and his roses: moss-at-midnight ground, hot-pink color bars, TV cyan, and the
+# phosphor green of "YOU CAME OUT OF IT."
+mode = "dark"
+
+accent = "#fd1d72"
+cursor = "#1cefb6"
+selection = "#18301e"
+selection_foreground = "#f8f5e6"
+selection_background = "#18301e"
+muted = "#6b8a71"
+
+background = "#07120a"
+dark_background = "#050d07"
+darker_background = "#030904"
+lighter_background = "#0f1f13"
+
+foreground = "#e8e4cc"
+dark_foreground = "#a5a48e"
+light_foreground = "#f0ecd8"
+# Templates paint every cursor with bright_foreground, so this is where the
+# phosphor lives. ANSI bright white glows mint too. That's not a bug. Mostly.
+bright_foreground = "#1cefb6"
+
+red = "#f2343a"
+yellow = "#fdd321"
+orange = "#f5852e"
+green = "#3ddc77"
+cyan = "#18d8dc"
+blue = "#5c9dff"
+magenta = "#ec3fb5"
+brown = "#a2502f"
+
+bright_red = "#ff6266"
+bright_yellow = "#ffe46a"
+bright_green = "#9ff356"
+bright_cyan = "#6ff8fb"
+bright_blue = "#8fbcff"
+bright_magenta = "#fb6cf9"
+
+# Window borders: phosphor green bleeding into TV cyan, the way a CRT does at 3 a.m.
+hyprland_active_border = "rgba(1ac560ff) rgba(0cf5f9ff) 45deg"
+hyprland_inactive_border = "rgba(18301eaa)"
