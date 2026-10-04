@@ -1,26 +1,26 @@
 # glitch-watts — a palette lifted from eleven glitched portraits of Alan Watts
-# and his roses: moss-at-midnight ground, hot-pink color bars, TV cyan, and the
+# and his roses: dusk-indigo ground, hot-pink color bars, TV cyan, and the
 # phosphor green of "YOU CAME OUT OF IT."
 mode = "dark"
 
 accent = "#fd1d72"
-cursor = "#1cefb6"
-selection = "#18301e"
+cursor = "#3ee6e8"
+selection = "#2a2250"
 selection_foreground = "#f8f5e6"
-selection_background = "#18301e"
-muted = "#6b8a71"
+selection_background = "#2a2250"
+muted = "#7d74a8"
 
-background = "#07120a"
-dark_background = "#050d07"
-darker_background = "#030904"
-lighter_background = "#0f1f13"
+background = "#0d0b1a"
+dark_background = "#0a0814"
+darker_background = "#06050e"
+lighter_background = "#17142b"
 
 foreground = "#e8e4cc"
-dark_foreground = "#a5a48e"
+dark_foreground = "#a9a3bd"
 light_foreground = "#f0ecd8"
 # Templates paint every cursor with bright_foreground, so this is where the
-# phosphor lives. ANSI bright white glows mint too. That's not a bug. Mostly.
-bright_foreground = "#1cefb6"
+# phosphor lives. ANSI bright white glows aqua too. That's not a bug. Mostly.
+bright_foreground = "#3ee6e8"
 
 red = "#f2343a"
 yellow = "#fdd321"
@@ -38,6 +38,6 @@ bright_cyan = "#6ff8fb"
 bright_blue = "#8fbcff"
 bright_magenta = "#fb6cf9"
 
-# Window borders: phosphor green bleeding into TV cyan, the way a CRT does at 3 a.m.
-hyprland_active_border = "rgba(1ac560ff) rgba(0cf5f9ff) 45deg"
-hyprland_inactive_border = "rgba(18301eaa)"
+# Window borders: violet static bleeding into TV cyan, the way a CRT does at 3 a.m.
+hyprland_active_border = "rgba(7b5cffff) rgba(0cf5f9ff) 45deg"
+hyprland_inactive_border = "rgba(2a2250aa)"
