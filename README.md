@@ -54,7 +54,7 @@ terminal remembering it used to be a CRT.
 
 - `colors.toml`: the full palette. Omarchy generates everything else from it
   (terminals, Neovim, VS Code, Helix, Chromium, the shell, lock screen,
-  keyboard RGB, and so on), including a phosphor-to-cyan gradient window
+  keyboard RGB, and so on), including a black-violet gradient window
   border.
 - `btop.theme`: graphs climb from moss through phosphor into hot pink, the way
   a signal goes from fine to "fine" to on fire.

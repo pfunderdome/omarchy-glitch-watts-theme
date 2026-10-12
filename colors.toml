@@ -38,6 +38,6 @@ bright_cyan = "#6ff8fb"
 bright_blue = "#8fbcff"
 bright_magenta = "#fb6cf9"
 
-# Window borders: violet static bleeding into TV cyan, the way a CRT does at 3 a.m.
-hyprland_active_border = "rgba(7b5cffff) rgba(0cf5f9ff) 45deg"
-hyprland_inactive_border = "rgba(2a2250aa)"
+# Window borders: the black-violet a CRT fades to after the broadcast ends at 3 a.m.
+hyprland_active_border = "rgba(2e1f6bff) rgba(150c33ff) 45deg"
+hyprland_inactive_border = "rgba(110c24aa)"
