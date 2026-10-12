@@ -56,6 +56,9 @@ terminal remembering it used to be a CRT.
   (terminals, Neovim, VS Code, Helix, Chromium, the shell, lock screen,
   keyboard RGB, and so on), including a black-violet gradient window
   border.
+- `chromium.theme`: a quieter browser color than the generated one. Chromium
+  and Brave turn the theme color into their own palette and crank up the
+  violet, so this hands them a near-black with just a trace of it.
 - `btop.theme`: graphs climb from moss through phosphor into hot pink, the way
   a signal goes from fine to "fine" to on fire.
 - `backgrounds/`: all eleven glitch portraits plus a plain moss wallpaper for
