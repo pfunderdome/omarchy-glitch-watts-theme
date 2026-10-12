@@ -5,7 +5,7 @@ signal was the noise all along.
 
 Eleven portraits of Alan Watts and some unreasonably lush roses went through a
 broken television and came back better. Hot-pink color bars, TV cyan, and
-phosphor-green text, all floating on a moss-green so dark it's basically
+phosphor-green text, all floating on a dusk indigo so dark it's basically
 midnight that hasn't committed yet.
 
 ![Preview](preview.png)
@@ -28,10 +28,10 @@ omarchy theme set glitch-watts
 
 | Role              | Hex       |                                                      |
 | ----------------- | --------- | ---------------------------------------------------- |
-| Background        | `#07120a` | moss at midnight, from the shadows behind the code   |
+| Background        | `#0d0b1a` | dusk indigo, the static after the last broadcast     |
 | Foreground        | `#e8e4cc` | warm parchment, from the frame around glitch #10     |
 | Accent            | `#fd1d72` | hot pink, the loudest color bar in every frame       |
-| Cursor            | `#1cefb6` | phosphor green, from "YOU CAME OUT OF IT"            |
+| Cursor            | `#3ee6e8` | TV aqua, the glow left on the screen after midnight  |
 | Red               | `#f2343a` | rose red                                             |
 | Orange            | `#f5852e` |                                                      |
 | Yellow            | `#fdd321` | color-bar gold                                       |
@@ -39,16 +39,16 @@ omarchy theme set glitch-watts
 | Cyan              | `#18d8dc` | TV cyan                                              |
 | Blue              | `#5c9dff` |                                                      |
 | Magenta           | `#ec3fb5` |                                                      |
-| Selection         | `#18301e` | a slightly less dark green, which is still dark      |
+| Selection         | `#2a2250` | a slightly less dark indigo, which is still dark     |
 
 Every text color clears 4.8:1 against the background (WCAG AA). The neon is
 loud, but you can still read it.
 
 ### About the cursor
 
-Omarchy paints every cursor with `bright_foreground`. Here that's phosphor
-green. That means ANSI bright white glows mint too. Think of it as the
-terminal remembering it used to be a CRT.
+Omarchy paints every cursor with `bright_foreground`. Here that's TV aqua.
+That means ANSI bright white glows aqua too. Think of it as the terminal
+remembering it used to be a CRT.
 
 ## What's included
 
@@ -59,7 +59,7 @@ terminal remembering it used to be a CRT.
 - `chromium.theme`: a quieter browser color than the generated one. Chromium
   and Brave turn the theme color into their own palette and crank up the
   violet, so this hands them a near-black with just a trace of it.
-- `btop.theme`: graphs climb from moss through phosphor into hot pink, the way
+- `btop.theme`: graphs climb from violet through aqua into hot pink, the way
   a signal goes from fine to "fine" to on fire.
 - `backgrounds/`: all eleven glitch portraits plus a plain moss wallpaper for
   days when you'd rather not be looked at. Cycle with
@@ -69,8 +69,8 @@ terminal remembering it used to be a CRT.
   the middle. On purpose.
 - `icons.theme`: Yaru-magenta folders.
 - `cliamp.toml`: a theme for the [cliamp](https://github.com/bjarneo/cliamp)
-  music player, which Omarchy doesn't theme on its own. Hot pink, phosphor,
-  moss. Copy it to `~/.config/cliamp/themes/glitch-watts.toml` and run
+  music player, which Omarchy doesn't theme on its own. Hot pink, aqua,
+  indigo. Copy it to `~/.config/cliamp/themes/glitch-watts.toml` and run
   `cliamp theme glitch-watts`. The lofi will sound exactly the same, but
   you'll know.
 - `preview.png`: desktop preview shown in the theme switcher.
