@@ -61,9 +61,10 @@ remembering it used to be a CRT.
   violet, so this hands them a near-black with just a trace of it.
 - `btop.theme`: graphs climb from violet through aqua into hot pink, the way
   a signal goes from fine to "fine" to on fire.
-- `backgrounds/`: all eleven glitch portraits plus a plain moss wallpaper for
-  days when you'd rather not be looked at. Cycle with
-  `omarchy theme bg next`.
+- `backgrounds/`: ten quiet ones first. The same portraits, turned down to
+  ghosts in the dark: TV snow, rain on the glass, one pink-and-cyan tear, a
+  VCR begging for tracking at 3:14 a.m. Then three of the originals at full
+  volume, for days you want the noise. Cycle with `omarchy theme bg next`.
 - `unlock.png` / `preview-unlock.png`: the Omarchy logo printed twice, once in
   pink and once in cyan, slightly out of register, with a scanline tear across
   the middle. On purpose.
